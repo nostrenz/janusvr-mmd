@@ -3,13 +3,13 @@
 <AssetObject id="houjuu_head" src="" mtl="" />
 <AssetObject
 	id="houjuu_body"
-	src="http://puu.sh/hR971/f0e6bd0882.obj"
-	mtl="http://puu.sh/hR9si/7ea6043e5e.mtl"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-houjuu-nue/master/model/houjuu-nue.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-houjuu-nue/master/model/houjuu-nue.mtl"
 />
 </Assets>
 <Room>
 <Ghost
-	id="Nostre Nue Houjuu"
+	id="Houjuu Nue"
 	js_id="3"
 	scale="1.1 1. 1.1"
 	pos="-0.0 -0.0 -0.0"
