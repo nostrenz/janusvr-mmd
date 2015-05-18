@@ -86,7 +86,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\skin.tga
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/skin.tga
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/skin.tga
 
 newmtl m_08
@@ -130,7 +130,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\hair.tga
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/hair.tga
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/hair.tga
 
 newmtl m_12
@@ -141,7 +141,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\wear_blue.tga
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_blue.tga
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_blue.tga
 
 newmtl m_13
@@ -163,7 +163,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\wear_white.tga
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_white.tga
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_white.tga
 
 newmtl m_15
@@ -174,7 +174,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\wear_black.tga
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_black.tga
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_black.tga
 
 newmtl m_16
@@ -196,7 +196,7 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\ribbon.tga
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/ribbon.tga
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/ribbon.tga
 
 newmtl m_18
