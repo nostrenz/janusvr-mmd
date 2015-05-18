@@ -1,0 +1,287 @@
+# Blender MTL File: 'janusvr_houjuu-nue.blend'
+# Material Count: 27
+
+newmtl 00:肌
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hada05.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hada05.png
+
+newmtl 01:顔1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kao.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kao.png
+
+newmtl 02:目1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.000000 0.000000
+Ks 0.254902 0.000000 0.005882
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 03:目2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/n_eye07.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/n_eye07.png
+
+newmtl 04:目3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 05:口1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.240000 0.105360 0.123360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 06:口2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.240000 0.105360 0.123360
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 07:口3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 08:まゆ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hair.png
+
+newmtl 09:髪後頭部
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hair.png
+
+newmtl 10:肌普段なし
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.489412 0.367059
+Ks 0.047059 0.047059 0.047059
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 11:ニーソ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/niso02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/niso02.png
+
+newmtl 12:服
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/fuku.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/fuku.png
+
+newmtl 13:えり
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.047000 0.047000 0.047000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/niso02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/niso02.png
+
+newmtl 14:リボン
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kutsu.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kutsu.png
+
+newmtl 15:くつ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kutsu.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kutsu.png
+
+newmtl 16:柄
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png
+
+newmtl 17:金属
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.082353 0.082353 0.082353
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png
+
+newmtl 18:金属2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/maki.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/maki.png
+
+newmtl 19:青
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png
+
+newmtl 20:赤
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png
+
+newmtl 21:照れ
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kao.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kao.png
+
+newmtl 22:蛇目
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.734118 0.000000 0.181961
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/toona.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/toona.bmp
+
+newmtl 23:髪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hair.png
+
+newmtl 24:髪2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.850000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/hair.png
+
+newmtl 25:リストバンド
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.850000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kutsu.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/kutsu.png
+
+newmtl 26:蛇
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/characters/houjuu-nue/model/mmd/mono.png

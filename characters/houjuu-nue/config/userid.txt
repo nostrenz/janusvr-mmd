@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="houjuu_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-houjuu-nue/master/model/houjuu-nue.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-houjuu-nue/master/model/houjuu-nue.mtl"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/houjuu-nue/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/houjuu-nue/model.mtl"
 />
 </Assets>
 <Room>
