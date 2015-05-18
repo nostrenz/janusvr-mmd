@@ -9,10 +9,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
 
-newmtl 01:顔
+newmtl 01:g2
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/顔.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/顔.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/g2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/g2.png
 
 newmtl 02:眉毛
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
 
 newmtl 03:まつ毛
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
 
 newmtl 04:瞳
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
 
 newmtl 05:口
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
 
 newmtl 06:歯
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
 
 newmtl 07:舌
 Ns 96.078431
@@ -86,10 +86,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
 
-newmtl 08:体1
+newmtl 08:g1
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -97,10 +97,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/体1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/体1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/g1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/g1.png
 
-newmtl 09:体2
+newmtl 09:h2
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/体2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/体2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/h2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/h2.png
 
 newmtl 10:スカート上
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/スカートA.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/スカートA.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/aA.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/aA.png
 
 newmtl 11:スカート
 Ns 96.078431
@@ -129,11 +129,11 @@ Kd 0.640000 0.640000 0.640000
 Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/dD.png
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/スカート表裏.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/スカート表裏.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/dD.png
 
-newmtl 12:服1
+newmtl 12:i1
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -141,10 +141,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/服1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/服1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/i1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/i1.png
 
-newmtl 13:服2
+newmtl 13:i2
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -152,10 +152,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/服2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/服2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/i2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/i2.png
 
-newmtl 14:髪1
+newmtl 14:k11
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -163,10 +163,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/髪.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/髪.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k1.png
 
-newmtl 15:髪2
+newmtl 15:k12
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -174,10 +174,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/髪2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/髪2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k12.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k12.png
 
-newmtl 16:ニーソ
+newmtl 16:eE
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -185,10 +185,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/ニーソ.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/ニーソ.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eE.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eE.png
 
-newmtl 17:靴
+newmtl 17:i3
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -196,8 +196,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/靴.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/靴.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/i3.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/i3.png
 
 newmtl 18:アクセサリ1
 Ns 96.078431
@@ -207,8 +207,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/アクセ.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/アクセ.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/bB.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/bB.png
 
 newmtl 19:アクセサリ2
 Ns 96.078431
@@ -218,8 +218,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/アクセ2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/アクセ2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/c2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/c2.png
 
 newmtl 20:ハイライト
 Ns 96.078431
@@ -229,8 +229,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/目,眉毛,睫毛,口.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/eye.png
 
 newmtl 21:照れ
 Ns 96.078431
@@ -240,10 +240,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/表情.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/表情.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/bloom.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/bloom.png
 
-newmtl 22:パンツ
+newmtl 22:fF
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -251,10 +251,10 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/パンツ.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/パンツ.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/fF.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/fF.png
 
-newmtl 23:羽
+newmtl 23:j
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -262,5 +262,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/羽.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/羽.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/j.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/j.png
