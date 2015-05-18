@@ -20,7 +20,7 @@
 	scale="0.8 0.8 0.8"
 	pos="-0.0 -0.0 -0.0"
 	head_pos="0.0 1.5 0.0"
-	eye_pos="0.0 1.35 -0.1"
+	eye_pos="0.0 1.37 -0.125"
 	lighting="true"
 />
 </Room>
