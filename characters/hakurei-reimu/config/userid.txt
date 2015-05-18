@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="reimu_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="reimu_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Hakurei Reimu"
+	head_id="reimu_head"
+	body_id="reimu_body"
+	js_id="3"
+	scale="0.8 0.8 0.8"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.9 0.0"
+	eye_pos="0.0 1.49 -0.1"
+	lighting="true"
+/>
+</Room>
+</FireBoxRoom>
