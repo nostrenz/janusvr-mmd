@@ -155,7 +155,7 @@ illum 2
 map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/i2.png
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/i2.png
 
-newmtl 14:k11
+newmtl 14:k1
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -166,7 +166,7 @@ illum 2
 map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k1.png
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k1.png
 
-newmtl 15:k12
+newmtl 15:k2
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
@@ -174,8 +174,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k12.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k12.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/mmd/k2.png
 
 newmtl 16:eE
 Ns 96.078431
