@@ -1,6 +1,10 @@
 <FireBoxRoom>
 <Assets>
-<AssetObject id="houjuu_head" src="" mtl="" />
+<AssetObject
+	id="houjuu_head"
+	src=""
+	mtl=""
+/>
 <AssetObject
 	id="houjuu_body"
 	src="https://raw.githubusercontent.com/nostrenz/janusvr-houjuu-nue/master/model/houjuu-nue.obj"
@@ -10,14 +14,14 @@
 <Room>
 <Ghost
 	id="Houjuu Nue"
-	js_id="3"
-	scale="1.1 1. 1.1"
-	pos="-0.0 -0.0 -0.0"
-	lighting="true"
 	head_id="houjuu_head"
-	head_pos="0.0 1.2 0.0"
 	body_id="houjuu_body"
-	eye_pos="0.0 1.35 -0.1"
+	js_id="3"
+	scale="1.1 1.1 1.1"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.2 0.0"
+	eye_pos="0.0 1.49 -0.1"
+	lighting="true"
 />
 </Room>
 </FireBoxRoom>
