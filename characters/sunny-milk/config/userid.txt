@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="sunny_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="sunny_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Sunny Milk"
+	head_id="sunny_head"
+	body_id="sunny_body"
+	js_id="3"
+	scale="0.8 0.8 0.8"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.5 0.0"
+	eye_pos="0.0 1.35 -0.1"
+	lighting="true"
+/>
+</Room>
+</FireBoxRoom>
