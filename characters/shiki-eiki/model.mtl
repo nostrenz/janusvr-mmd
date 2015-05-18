@@ -1,0 +1,255 @@
+# Blender MTL File: 'shikieiki.blend'
+# Material Count: 23
+
+newmtl m_00
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/face.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/face.tga
+
+newmtl m_01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .
+map_d .
+
+newmtl m_02
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/face.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/face.tga
+
+newmtl m_03
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/face.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/face.tga
+
+newmtl m_04
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd .
+map_d .
+
+newmtl m_05
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd .
+map_d .
+
+newmtl m_06
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/face.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/face.tga
+
+newmtl m_07
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\skin.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/skin.tga
+
+newmtl m_08
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/skin.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/skin.tga
+
+newmtl m_09
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/skin.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/skin.tga
+
+newmtl m_10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/skin.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/skin.tga
+
+newmtl m_11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\hair.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/hair.tga
+
+newmtl m_12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\wear_blue.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_blue.tga
+
+newmtl m_13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_blue.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_blue.tga
+
+newmtl m_14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\wear_white.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_white.tga
+
+newmtl m_15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\wear_black.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_black.tga
+
+newmtl m_16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_white.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_white.tga
+
+newmtl m_17
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd E:\Nostre\Work\Perso\Project\JanusVR\janusvr-mmd-chars\characters\shiki-eiki.unfinished\mmd\ribbon.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/ribbon.tga
+
+newmtl m_18
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/ribbon.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/ribbon.tga
+
+newmtl m_19
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/ribbon.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/ribbon.tga
+
+newmtl m_20
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_black.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_black.tga
+
+newmtl m_21
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_white.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_white.tga
+
+newmtl m_22
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_blue.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/mmd/wear_blue.tga
