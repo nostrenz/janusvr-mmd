@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="shikieiki_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/shiki-eiki/model.mtl"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/shiki-eiki/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/shiki-eiki/model.mtl"
 />
 </Assets>
 <Room>

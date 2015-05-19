@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/body.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/body.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/body.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/body.png
 
 newmtl 01:さらし
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/body.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/body.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/body.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/body.png
 
 newmtl 02:上着
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/ue.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/ue.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/ue.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/ue.png
 
 newmtl 03:スカーツ
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/skt.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/skt.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/skt.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/skt.png
 
 newmtl 04:後髪
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/kami.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/kami.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/kami.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/kami.png
 
 newmtl 05:白目
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
 
 newmtl 06:口
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
 
 newmtl 07:かお
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
 
 newmtl 08:まゆ
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
 
 newmtl 09:瞳
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
 
 newmtl 10:ハイライト
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.950000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/face.png
 
 newmtl 11:カゲ
 Ns 96.078431
@@ -130,8 +130,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/kage.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/kage.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/kage.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/kage.png
 
 newmtl 12:かみ
 Ns 96.078431
@@ -141,8 +141,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/kami.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/hakurei-reimu/mmd/kami.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/kami.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/hakurei-reimu/mmd/kami.png
 
 newmtl joint
 Ns 96.078431

@@ -1,0 +1,222 @@
+# Blender MTL File: 'None'
+# Material Count: 20
+
+newmtl 00:head
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+
+newmtl 01:face
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+
+newmtl 02:white
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+
+newmtl 03:eye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+
+newmtl 04:highlight
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yua1.png
+
+newmtl 05:body
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yub1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yub1.png
+
+newmtl 06:legging
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.600000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yub1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yub1.png
+
+newmtl 07:top
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuf1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuf1.png
+
+newmtl 08:belt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuf1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuf1.png
+
+newmtl 09:tie
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yue1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yue1.png
+
+newmtl 10:tieTrim
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yue2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yue2.png
+
+newmtl 11:vest
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yue1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yue1.png
+
+newmtl 12:skirt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yue1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yue1.png
+
+newmtl 13:skirtIn
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yud1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yud1.png
+
+newmtl 14:skirtButtons
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yug1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yug1.png
+
+newmtl 15:boots
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yug1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yug1.png
+
+newmtl 16:hairBase
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuc1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuc1.png
+
+newmtl 17:hairBack
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuc1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuc1.png
+
+newmtl 18:hairFront
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuc1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/yuc1.png
+
+newmtl 19:blush
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.268800 0.208000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/tSkin.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/kazami-yuuka/mmd/tSkin.bmp

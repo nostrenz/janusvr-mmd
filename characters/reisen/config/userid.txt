@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="reisen_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="reisen_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Reisej Ugongein Inaba"
+	head_id="reisen_head"
+	body_id="reisen_body"
+	js_id="3"
+	scale="1.1 1.1 1.1"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.9 0.0"
+	eye_pos="0.0 1.55 -0.13"
+	lighting="true"
+/>
+</Room>
+</FireBoxRoom>

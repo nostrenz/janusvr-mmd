@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="mystia_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="mystia_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Mystia"
+	head_id="mystia_head"
+	body_id="mystia_body"
+	js_id="3"
+	scale="1.0 1.0 1.0"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.3 0.0"
+	eye_pos="0.0 1.47 -0.11"
+	lighting="true"
+/>
+</Room>
+</FireBoxRoom>

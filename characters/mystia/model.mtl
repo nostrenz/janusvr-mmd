@@ -1,0 +1,497 @@
+# Blender MTL File: 'None'
+# Material Count: 45
+
+newmtl 00:材質0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 01:材質1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 02:材質2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 03:材質3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 04:材質4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 05:材質5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 06:材質6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 07:材質7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 08:材質8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 09:材質9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 10:材質10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 11:材質11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 12:材質12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 13:材質13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 14:材質14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 15:材質15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 16:材質16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 17:材質17
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 18:材質18
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.600000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.bmp
+
+newmtl 19:材質19
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.600000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.bmp
+
+newmtl 20:材質20
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 21:材質21
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 22:材質22
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 23:材質23
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms01.png
+
+newmtl 24:材質24
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 25:材質25
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 26:材質26
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 27:材質27
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 28:材質28
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 29:材質29
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 30:材質30
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 31:材質31
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 32:材質32
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 33:材質33
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 34:材質34
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 35:材質35
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 36:材質36
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 37:材質37
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 38:材質38
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 39:材質39
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 40:材質40
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 41:材質41
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms02.png
+
+newmtl 42:材質42
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 43:材質43
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/ms03.png
+
+newmtl 44:材質44
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/pan.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mystia/mmd/pan.png

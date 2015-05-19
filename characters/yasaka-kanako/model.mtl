@@ -1,0 +1,200 @@
+# Blender MTL File: 'model.blend'
+# Material Count: 18
+
+newmtl 00:材質0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/KN_Body.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/KN_Body.bmp
+
+newmtl 01:材質1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Kn_Sports0.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Kn_Sports0.bmp
+
+newmtl 02:洋服
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Kn_suit.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Kn_suit.bmp
+
+newmtl 03:体ドロワB
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/KN_Body.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/KN_Body.bmp
+
+newmtl 04:材質0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/kaha01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/kaha01.png
+
+newmtl 05:材質1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/kahu02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/kahu02.png
+
+newmtl 06:材質2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/kahu02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/kahu02.png
+
+newmtl 07:材質3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/kana02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/kana02.png
+
+newmtl 08:材質4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.235294 0.043922 0.015686
+Ks 0.235294 0.235294 0.235294
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/uv01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/uv01.jpg
+
+newmtl 09:材質5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.060160 0.060160 0.060160
+Ks 0.225000 0.225000 0.225000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/1.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/1.bmp
+
+newmtl 10:材質6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.529280 0.394240 0.140800
+Ks 0.327451 0.327451 0.327451
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/1.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/1.bmp
+
+newmtl 11:春服
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Kn_spri.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Kn_spri.bmp
+
+newmtl 12:ルーミア_髪
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Ka_hair.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Ka_hair.bmp
+
+newmtl 13:顔
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Tj_face000.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Tj_face000.bmp
+
+newmtl 14:瞳
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Tj_face000.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Tj_face000.bmp
+
+newmtl 15:白目
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/e.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/e.jpg
+
+newmtl 16:グラサン
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Kn_suit.bmp
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Kn_suit.bmp
+
+newmtl 17:ハイライト
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Tj_l.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/mmd/Tj_l.png

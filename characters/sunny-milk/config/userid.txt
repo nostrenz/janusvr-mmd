@@ -7,8 +7,8 @@
 />
 <AssetObject
 	id="sunny_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/sunny-milk/model.mtl"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/sunny-milk/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/sunny-milk/model.mtl"
 />
 </Assets>
 <Room>

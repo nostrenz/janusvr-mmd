@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="kanako_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="kanako_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/yasaka-kanako/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Yasaka Kanako"
+	head_id="kanako_head"
+	body_id="kanako_body"
+	js_id="3"
+	scale="1.0 1.0 1.0"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.6 0.0"
+	eye_pos="0.0 1.81 -0.16"
+	lighting="true"
+/>
+</Room>
+</FireBoxRoom>
