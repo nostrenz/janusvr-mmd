@@ -1,7 +1,6 @@
 characters/*/blender/
 *.unfinished
-*.pmd
-*.pmx
 
-#Textures files unsupported by janusVR
-*.tga
+#Unwanted MMD files
+*.pmd
+*.mpx

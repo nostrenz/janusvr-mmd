@@ -7,13 +7,13 @@
 />
 <AssetObject
 	id="kasen_body"
-	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/kasen/model.obj"
-	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/kasen/model.mtl"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/model.mtl"
 />
 </Assets>
 <Room>
 <Ghost
-	id="Kasen"
+	id="Ibaraki Kasen"
 	head_id="kasen_head"
 	body_id="kasen_body"
 	js_id="3"
