@@ -1,0 +1,255 @@
+# Blender MTL File: 'kasen.blend'
+# Material Count: 23
+
+newmtl 00:Material0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.720000 0.720000 0.720000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 01:Material1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 02:Material2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 03:Material3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 04:Material4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 05:Material5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 06:Material6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 07:Material7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 08:Material8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 09:Material9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.720000 0.720000 0.720000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_face.png
+
+newmtl 10:Material10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.600000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/kuro.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/kuro.tga
+
+newmtl 11:Material11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/ksn_hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/ksn_hair.png
+
+newmtl 12:Material12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/ksn_hair.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/ksn_hair.png
+
+newmtl 13:Material13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Body.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Body.png
+
+newmtl 14:Material14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_cheak.tga
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_cheak.tga
+
+newmtl 15:Material15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+
+newmtl 16:Material16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+
+newmtl 17:Material17
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+
+newmtl 18:Material18
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+
+newmtl 19:Material19
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+
+newmtl 20:Material20
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.250000 0.150000 0.150000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+
+newmtl 21:Material21
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+
+newmtl 22:Material22
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_Suit.png
