@@ -163,8 +163,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_cheak.tga
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_cheak.tga
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_cheak.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd-chars/master/characters/ibaraki-kasen/mmd/Ksn_cheak.png
 
 newmtl 15:Material15
 Ns 96.078431
