@@ -144,15 +144,6 @@ illum 2
 map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.png
 map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.png
 
-newmtl 13:Material13
-Ns 96.078431
-Ka 0.000000 0.000000 0.000000
-Kd 0.749804 0.749804 0.749804
-Ks 0.050000 0.050000 0.050000
-Ni 1.000000
-d 1.000000
-illum 2
-
 newmtl 14:Material14
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000

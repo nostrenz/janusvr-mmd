@@ -19,7 +19,7 @@
 	js_id="3"
 	scale="1.0 1.0 1.0"
 	pos="-0.0 -0.0 -0.0"
-	head_pos="0.0 1.9 0.0"
+	head_pos="0.0 1.45 0.0"
 	eye_pos="0.0 1.55 -0.13"
 	lighting="false"
 />
