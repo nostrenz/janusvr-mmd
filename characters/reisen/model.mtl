@@ -9,8 +9,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/body.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/body.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/body.jpg
 
 newmtl 01:leg
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/body.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/body.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/body.jpg
 
 newmtl 02:head
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/face.jpg
 
 newmtl 03:eye
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/face.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/face.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/face.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/face.jpg
 
 newmtl 06:highlight
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
 
 newmtl 08:tie
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
 
 newmtl 09:tie2
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
 
 newmtl 10:top
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
 
 newmtl 11:top2
 Ns 96.078431
@@ -130,8 +130,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_02.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_02.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_02.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_02.jpg
 
 newmtl 12:top_w
 Ns 96.078431
@@ -141,8 +141,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
 
 newmtl 13:hair
 Ns 96.078431
@@ -152,8 +152,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.jpg
 
 newmtl 14:hair_ex
 Ns 96.078431
@@ -163,8 +163,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.jpg
 
 newmtl 15:ears
 Ns 96.078431
@@ -174,8 +174,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Hair_01.jpg
 
 newmtl 16:sock
 Ns 96.078431
@@ -185,8 +185,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/suit1.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/suit1.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/suit1.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/suit1.jpg
 
 newmtl 17:legging_b
 Ns 96.078431
@@ -218,8 +218,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/suit2.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/suit2.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/suit2.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/suit2.jpg
 
 newmtl 20:skirt2
 Ns 96.078431
@@ -229,5 +229,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/reisen/mmd/Suit_01.jpg

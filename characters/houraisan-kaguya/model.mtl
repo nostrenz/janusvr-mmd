@@ -9,8 +9,8 @@ Ks 0.080392 0.080392 0.080392
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
 
 newmtl 01:Material1
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.080392 0.080392 0.080392
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
 
 newmtl 02:Material2
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.080392 0.080392 0.080392
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
 
 newmtl 03:Material3
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.080392 0.080392 0.080392
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
 
 newmtl 04:Material4
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.080392 0.080392 0.080392
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/fuku.jpg
 
 newmtl 05:Material5
 Ns 96.078431
@@ -64,8 +64,8 @@ Ks 0.080392 0.080392 0.080392
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/body.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/body.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/body.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/body.jpg
 
 newmtl 06:Material6
 Ns 96.078431
@@ -75,8 +75,8 @@ Ks 0.080392 0.080392 0.080392
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/shoe.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/shoe.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/shoe.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/shoe.jpg
 
 newmtl 07:Material7
 Ns 96.078431
@@ -86,8 +86,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/und.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/und.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/und.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/und.jpg
 
 newmtl 08:Material8
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.129412 0.127451 0.172549
 Ni 1.000000
 d 0.999000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_hair_c.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_hair_c.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_hair_c.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_hair_c.jpg
 
 newmtl 09:Material9
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.jpg
 
 newmtl 10:Material10
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.980000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.jpg
 
 newmtl 11:Material11
 Ns 96.078431
@@ -130,5 +130,5 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/mmd/HY_face_c.jpg

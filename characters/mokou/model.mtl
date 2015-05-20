@@ -9,8 +9,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/Body_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/Body_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/Body_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/Body_01.jpg
 
 newmtl 01:Material1
 Ns 96.078431
@@ -20,8 +20,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
 
 newmtl 02:Material2
 Ns 96.078431
@@ -31,8 +31,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
 
 newmtl 03:Material3
 Ns 96.078431
@@ -42,8 +42,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
 
 newmtl 04:Material4
 Ns 96.078431
@@ -53,8 +53,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
 
 newmtl 05:Material5
 Ns 96.078431
@@ -97,8 +97,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
 
 newmtl 09:Material9
 Ns 96.078431
@@ -108,8 +108,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
 
 newmtl 10:Material10
 Ns 96.078431
@@ -119,8 +119,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
 
 newmtl 11:Material11
 Ns 96.078431
@@ -130,8 +130,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/suit_01.jpg
 
 newmtl 12:Material12
 Ns 96.078431
@@ -141,8 +141,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.jpg
 
 newmtl 14:Material14
 Ns 96.078431
@@ -152,8 +152,8 @@ Ks 0.050000 0.050000 0.050000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.png
-map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.png
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.jpg
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/mokou/mmd/face_01.jpg
 
 newmtl 15:Material15
 Ns 96.078431
