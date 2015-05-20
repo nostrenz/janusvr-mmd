@@ -21,7 +21,7 @@
 	pos="-0.0 -0.0 -0.0"
 	head_pos="0.0 1.2 0.0"
 	eye_pos="0.0 1.547 -0.132"
-	lighting="true"
+	lighting="false"
 />
 </Room>
 </FireBoxRoom>

@@ -1,0 +1,255 @@
+# Blender MTL File: 'model.blend'
+# Material Count: 23
+
+newmtl 00:face
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+
+newmtl 01:mouth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+
+newmtl 02:body
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+
+newmtl 03:arm
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+
+newmtl 04:white
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mz04.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mz04.png
+
+newmtl 05:eyeL
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2a.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2a.png
+
+newmtl 06:eyeR
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+
+newmtl 07:highlight
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+
+newmtl 08:blush
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+
+newmtl 09:hair
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/tr02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/tr02.png
+
+newmtl 10:facial
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+
+newmtl 11:blush2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm2.png
+
+newmtl 12:tear
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.570000
+illum 2
+map_Kd .
+map_d .
+
+newmtl 13:pantsu
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mikp.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mikp.png
+
+newmtl 14:eyebrow
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/tr02.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/tr02.png
+
+newmtl 15:geta
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm1.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mm1.png
+
+newmtl 16:skirt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy03.png
+
+newmtl 17:skirt_in
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy04.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy04.png
+
+newmtl 18:top
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy03.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy03.png
+
+newmtl 19:top_w
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy04.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy04.png
+
+newmtl 20:sleeve
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy04.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/dy04.png
+
+newmtl 21:strap
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mz01.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mz01.png
+
+newmtl 22:buckle
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mz01c.png
+map_d https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/tatara-kogasa/mmd/mz01c.png

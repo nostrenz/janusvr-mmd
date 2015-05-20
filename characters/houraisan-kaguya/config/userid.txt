@@ -1,0 +1,27 @@
+<FireBoxRoom>
+<Assets>
+<AssetObject
+	id="kaguya_head"
+	src=""
+	mtl=""
+/>
+<AssetObject
+	id="kaguya_body"
+	src="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/model.obj"
+	mtl="https://raw.githubusercontent.com/nostrenz/janusvr-mmd/master/characters/houraisan-kaguya/model.mtl"
+/>
+</Assets>
+<Room>
+<Ghost
+	id="Houraisan Kaguya"
+	head_id="kaguya_head"
+	body_id="kaguya_body"
+	js_id="3"
+	scale="1.0 1.0 1.0"
+	pos="-0.0 -0.0 -0.0"
+	head_pos="0.0 1.9 0.0"
+	eye_pos="0.0 1.6 -0.12"
+	lighting="false"
+/>
+</Room>
+</FireBoxRoom>
